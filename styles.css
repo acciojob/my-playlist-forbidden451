@@ -44,3 +44,7 @@ h2{
 .rectangle2>p{
 	text-align:left;
 }
+
+.payer_one,.player_two{
+	background-color: rgb(255, 255, 255);
+}
